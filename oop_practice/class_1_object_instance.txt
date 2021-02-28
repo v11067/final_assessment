@@ -1,0 +1,23 @@
+#Class:
+
+Student
+
+#Attributes:
+
+name = "Kohei"
+
+club = ["History", "Anime", "Pi", "Magic"]
+
+number_of_student = 900
+
+is_smart = true
+
+#Methods:
+
+call_name: name = "Kohei"
+
+enroll: number_of_student = 900
+
+top_of_the_class: is_smart = true
+
+pick_club: club = ["History", "Anime", "Pi", "Magic"]
