@@ -1,0 +1,27 @@
+//Variable Assignment
+
+Original Variable as String: Pizza source
+
+Camel Case: pizzaSource
+
+Snake Case: pizza_source
+
+Kebab Case: pizza-source
+
+Pascal Case: PizzaSource
+
+UpperCaseSnakeCase: PIZZA_SOURCE
+
+//Data Types
+
+String: my_facorite_pizza = "Mr.Jim's Pizza"
+
+Integer: how_many_i_can_eat_pizza = 3
+
+Float: how_many_i_can_split_pizza = 0.25
+
+Bloolean: is_delicious = true
+
+Array: pizza_types = ["Neapolitan Pizza", "Chicago Pizza", "New York Pizza", "Greek Pizza"]
+
+Hash: pizza_inventory = {"Neapolitan Pizza" = 10, "Chicago Pizza" = 8, "New York Pizza" = 6, "Greek Pizza" = 21}
