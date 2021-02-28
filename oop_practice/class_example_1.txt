@@ -1,0 +1,23 @@
+#Class, Attribute, and Method in a school
+
+Class: Student
+
+Attributes:
+
+name (str)
+
+club (array)
+
+number_of_student (inte)
+
+is_smart (bloorian)
+
+Method:
+
+call_name (pick the name)
+
+enroll (add the number_of_student)
+
+top_of_the_class (extreme is_smart)
+
+pick_club (choose the club after school)
