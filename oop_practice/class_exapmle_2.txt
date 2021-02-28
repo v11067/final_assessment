@@ -1,0 +1,25 @@
+#Class, Attribute, and Method in a school
+
+#Class:
+
+Library
+
+#Attributes:
+
+location (str)
+
+type_of_books (array)
+
+number_of_librarian (inte)
+
+books_inventory (hash)
+
+#Method:
+
+dismantle (change the location)
+
+buy_new_books (add the new type_of_books)
+
+hire_another_librarian (change number_of_librarian)
+
+align books_inventory (change books_inventory to match school need)

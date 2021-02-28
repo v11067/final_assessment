@@ -1,8 +1,10 @@
 #Class, Attribute, and Method in a school
 
-Class: Student
+#Class:
 
-Attributes:
+Student
+
+#Attributes:
 
 name (str)
 
@@ -12,7 +14,7 @@ number_of_student (inte)
 
 is_smart (bloorian)
 
-Method:
+#Method:
 
 call_name (pick the name)
 

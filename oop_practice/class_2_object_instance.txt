@@ -1,0 +1,23 @@
+#Class:
+
+Library
+
+#Attributes:
+
+location = "back of school"
+
+type_of_books = ["History", "Math", "Art", "Classic"]
+
+number_of_librarian = 4
+
+books_inventory = {"History" = 3, "Math" = 4, "Art" =2, "Classic" = 9}
+
+#Method:
+
+dismantle: location = "back of school"
+
+buy_new_books: type_of_books = ["History", "Math", "Art", "Classic"]
+
+hire_another_librarian: number_of_librarian = 4
+
+align books_inventory: books_inventory = {"History" = 3, "Math" = 4, "Art" =2, "Classic" = 9}
